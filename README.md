@@ -2,21 +2,23 @@
 
 A simple and modern **Typing Speed Test** desktop application built with **Python Tkinter**. It helps users measure **typing speed (WPM)**, **accuracy**, and **time taken** using randomly selected sentences.
 
-![Typing Speed Test <img width="1920" height="551" alt="Screenshot 2025-12-18 130120" src="https://github.com/user-attachments/assets/8f4c50f7-d147-4193-a7d3-a86415773423" />
-Screenshot](./screenshot.png)
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/8f4c50f7-d147-4193-a7d3-a86415773423" width="900">
+</p>
+
 
 ---
 
 ## 🚀 Features
 
-✨ **Clean Dark UI** – Modern dark theme with attractive colors
-🎯 **Random Sentences** – Each test uses a randomly selected sentence
-⏱ **Time Tracking** – Calculates total time taken to type
-📈 **Typing Speed (WPM)** – Words Per Minute calculation
-✅ **Accuracy Calculation** – Uses smart string comparison
-🔄 **Reset & Retry** – Instantly reset and try a new sentence
-🖱 **Hover Effects** – Interactive button hover styling
-⌨ **Keyboard Focus** – Input box auto-focuses on start
+✨ **Clean Dark UI** – Modern dark theme with attractive colors.
+🎯 **Random Sentences** – Each test uses a randomly selected sentence.
+⏱ **Time Tracking** – Calculates total time taken to type.
+📈 **Typing Speed (WPM)** – Words Per Minute calculation.
+✅ **Accuracy Calculation** – Uses smart string comparison.
+🔄 **Reset & Retry** – Instantly reset and try a new sentence.
+🖱 **Hover Effects** – Interactive button hover styling.
+⌨ **Keyboard Focus** – Input box auto-focuses on start.
 
 ---
 
@@ -43,5 +45,6 @@ Screenshot](./screenshot.png)
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
